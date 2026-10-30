@@ -1,10 +1,15 @@
 {
- "work": "小町集",
+ "work": "小町集（群書類従本）",
  "work_id": "gunsho10-komachi",
  "repo": "kumoi-no-fumigura/komachi",
  "yomi": "こまちしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "平安中期",
+  "author": "小野小町（他撰）",
+  "desc": "六歌仙の一人小野小町の歌を集めた家集。「花の色は移りにけりな」を巻頭に置き、恋の贈答などを収める。後人の編とされ、他人の歌もまじる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1347,6 +1352,6 @@
   "poems": 116,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
